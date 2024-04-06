@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GLP\\pyramid(1)\\",
+  "WorkspaceRootPath": "C:\\GLP\\CSC212\\pyramid(1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1C9F65-6B5C-4B6D-BCF1-6E593B9594A0}|pyramid(1).vcxproj|C:\\GLP\\pyramid(1)\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4A1C9F65-6B5C-4B6D-BCF1-6E593B9594A0}|pyramid(1).vcxproj|C:\\GLP\\CSC212\\pyramid(1)\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A1C9F65-6B5C-4B6D-BCF1-6E593B9594A0}|pyramid(1).vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "C:\\GLP\\pyramid(1)\\test.cpp",
+              "DocumentMoniker": "C:\\GLP\\CSC212\\pyramid(1)\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
-              "ToolTip": "C:\\GLP\\pyramid(1)\\test.cpp",
+              "ToolTip": "C:\\GLP\\CSC212\\pyramid(1)\\test.cpp",
               "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAuwGMAAAABAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T13:48:16.696Z",
               "EditorCaption": ""

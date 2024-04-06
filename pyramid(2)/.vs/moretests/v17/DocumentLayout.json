@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GLP\\moretests\\",
+  "WorkspaceRootPath": "C:\\GLP\\CSC212\\pyramid(2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B08F59D6-59CF-45C3-ADE6-6728FE7304D7}|moretests.vcxproj|C:\\GLP\\moretests\\aroundaround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B08F59D6-59CF-45C3-ADE6-6728FE7304D7}|moretests.vcxproj|C:\\GLP\\CSC212\\pyramid(2)\\aroundaround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B08F59D6-59CF-45C3-ADE6-6728FE7304D7}|moretests.vcxproj|solutionrelative:aroundaround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "aroundaround.cpp",
-              "DocumentMoniker": "C:\\GLP\\moretests\\aroundaround.cpp",
+              "DocumentMoniker": "C:\\GLP\\CSC212\\pyramid(2)\\aroundaround.cpp",
               "RelativeDocumentMoniker": "aroundaround.cpp",
-              "ToolTip": "C:\\GLP\\moretests\\aroundaround.cpp",
+              "ToolTip": "C:\\GLP\\CSC212\\pyramid(2)\\aroundaround.cpp",
               "RelativeToolTip": "aroundaround.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-31T19:15:25.751Z",
               "EditorCaption": ""
