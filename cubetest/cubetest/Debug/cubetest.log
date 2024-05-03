@@ -1,13 +1,9 @@
 ﻿  cube.cpp
   Renderer3D.cpp
   Generating Code...
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(27,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(27,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(27,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(27,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         with
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         [
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:             _Rep=double
-C:\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         ]
-  cubetest.vcxproj -> C:\GLP\cubetest\Debug\cubetest.exe
+/Users/user/Documents/200 Lvl/Semster 2/Computer Graphics/CubeCreation/cube.cpp(1,1): error C1083: Cannot open source file: '..\..\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\cube.cpp': No such file or directory
+  (compiling source file '/Users/user/Documents/200%20Lvl/Semster%202/Computer%20Graphics/CubeCreation/cube.cpp')
+  
+/Users/user/Documents/200 Lvl/Semster 2/Computer Graphics/CubeCreation/Renderer3D.cpp(1,1): error C1083: Cannot open source file: '..\..\Users\user\Documents\200 Lvl\Semster 2\Computer Graphics\CubeCreation\Renderer3D.cpp': No such file or directory
+  (compiling source file '/Users/user/Documents/200%20Lvl/Semster%202/Computer%20Graphics/CubeCreation/Renderer3D.cpp')
+  

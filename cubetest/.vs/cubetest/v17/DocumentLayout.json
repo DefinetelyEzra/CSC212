@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GLP\\cubetest\\",
+  "WorkspaceRootPath": "C:\\GLP\\CSC212\\cubetest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CDD668F-5981-4C5D-82F5-EA3DABD4FE8A}|cubetest.vcxproj|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CDD668F-5981-4C5D-82F5-EA3DABD4FE8A}|cubetest.vcxproj|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CDD668F-5981-4C5D-82F5-EA3DABD4FE8A}|cubetest.vcxproj|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CDD668F-5981-4C5D-82F5-EA3DABD4FE8A}|cubetest.vcxproj|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,9 +29,9 @@
               "DocumentIndex": 0,
               "Title": "Renderer3D.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
-              "RelativeToolTip": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T12:57:37.151Z",
@@ -42,33 +42,33 @@
               "DocumentIndex": 1,
               "Title": "Renderer3D.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
-              "RelativeDocumentMoniker": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
               "ToolTip": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
-              "RelativeToolTip": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\Renderer3D.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-30T12:11:29.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "cube.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
-              "RelativeToolTip": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.cpp",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAD4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-29T18:37:50.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "cube.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
-              "RelativeDocumentMoniker": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
               "ToolTip": "C:\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
-              "RelativeToolTip": "..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
+              "RelativeToolTip": "..\\..\\..\\Users\\user\\Documents\\200 Lvl\\Semster 2\\Computer Graphics\\CubeCreation\\cube.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-29T18:31:11.908Z"

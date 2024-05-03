@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GLP\\backgroundrender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|C:\\GLP\\backgroundrender\\animate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|solutionrelative:animate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|C:\\GLP\\backgroundrender\\animate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|solutionrelative:animate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|C:\\GLP\\backgroundrender\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|solutionrelative:test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|C:\\GLP\\backgroundrender\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE08990-336A-44EC-A774-E5DD08250AF3}|backgroundrender.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\GLP\\backgroundrender\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\GLP\\backgroundrender\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwJUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:31:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.h",
+              "DocumentMoniker": "C:\\GLP\\backgroundrender\\test.h",
+              "RelativeDocumentMoniker": "test.h",
+              "ToolTip": "C:\\GLP\\backgroundrender\\test.h",
+              "RelativeToolTip": "test.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T14:32:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animate.h",
+              "DocumentMoniker": "C:\\GLP\\backgroundrender\\animate.h",
+              "RelativeDocumentMoniker": "animate.h",
+              "ToolTip": "C:\\GLP\\backgroundrender\\animate.h",
+              "RelativeToolTip": "animate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T14:31:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "animate.cpp",
+              "DocumentMoniker": "C:\\GLP\\backgroundrender\\animate.cpp",
+              "RelativeDocumentMoniker": "animate.cpp",
+              "ToolTip": "C:\\GLP\\backgroundrender\\animate.cpp",
+              "RelativeToolTip": "animate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:31:13.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
