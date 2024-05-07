@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\GLP\moyo\main.cpp(21,66): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\GLP\moyo\main.cpp(21,59): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\GLP\moyo\main.cpp(21,52): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\GLP\moyo\main.cpp(21,43): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\GLP\moyo\main.cpp(61,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pyramid creation.vcxproj -> C:\GLP\pyramid creation\Debug\pyramid creation.exe
