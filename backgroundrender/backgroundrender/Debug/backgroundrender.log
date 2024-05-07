@@ -1,3 +1,0 @@
-﻿  test.cpp
-C:\GLP\backgroundrender\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  backgroundrender.vcxproj -> C:\GLP\backgroundrender\Debug\backgroundrender.exe
