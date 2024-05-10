@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\GLP\motionproj\test.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GLP\motionproj\test.cpp(58,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GLP\motionproj\test.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  motionproj.vcxproj -> C:\GLP\motionproj\Debug\motionproj.exe
