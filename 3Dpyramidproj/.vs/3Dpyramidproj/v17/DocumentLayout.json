@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GLP\\3Dpyramidproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\openglpro\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\Shaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:Shaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|C:\\GLP\\3Dpyramidproj\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCE190AD-868C-4B86-9048-339A1279C46A}|3Dpyramidproj.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stb.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\stb.cpp",
+              "RelativeDocumentMoniker": "stb.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\stb.cpp",
+              "RelativeToolTip": "stb.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:35:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "texture.h",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\texture.h",
+              "RelativeDocumentMoniker": "texture.h",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\texture.h",
+              "RelativeToolTip": "texture.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T11:22:03.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "texture.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\texture.cpp",
+              "RelativeDocumentMoniker": "texture.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\texture.cpp",
+              "RelativeToolTip": "texture.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:21:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "shaderClass.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\shaderClass.cpp",
+              "RelativeToolTip": "shaderClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T13:13:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EBO.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\EBO.cpp",
+              "RelativeDocumentMoniker": "EBO.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\EBO.cpp",
+              "RelativeToolTip": "EBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T13:13:00.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VBO.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\VBO.cpp",
+              "RelativeDocumentMoniker": "VBO.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\VBO.cpp",
+              "RelativeToolTip": "VBO.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T13:12:49.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T13:12:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VBO.h",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T13:12:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VAO.h",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\VAO.h",
+              "RelativeDocumentMoniker": "VAO.h",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\VAO.h",
+              "RelativeToolTip": "VAO.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T13:11:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "shaderClass.h",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\shaderClass.h",
+              "RelativeDocumentMoniker": "shaderClass.h",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\shaderClass.h",
+              "RelativeToolTip": "shaderClass.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T13:11:17.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EBO.h",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\EBO.h",
+              "RelativeDocumentMoniker": "EBO.h",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\EBO.h",
+              "RelativeToolTip": "EBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T13:11:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T13:10:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T13:10:00.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\GLP\\openglpro\\glad.c",
+              "RelativeDocumentMoniker": "..\\openglpro\\glad.c",
+              "ToolTip": "C:\\GLP\\openglpro\\glad.c",
+              "RelativeToolTip": "..\\openglpro\\glad.c",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-12T12:49:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\GLP\\3Dpyramidproj\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\GLP\\3Dpyramidproj\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAArwGoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T12:47:30.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
